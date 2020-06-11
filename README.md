@@ -1,13 +1,13 @@
 # Data Scientist Nanodegree
 
-In this course I learned data structures and algorithms by solving 100+ practice problems :rocket: :rocket: :rocket:. The course starts from learning python programming to learning data structures to learning basic algorithms and finally learning advanced algorithms like A*.
+This project helps me build expertise in data manipulation, visualization, predictive analytics, machine learning and data science.
 
 ## Table of Contents
 
 
 ## Installation
 
-### Anaconda :fire:
+### :fire: Anaconda
 
 The Anaconda distribution is free to install and can be downloaded using:
 
@@ -19,7 +19,7 @@ Based on your operating system, installation instructions are available online:
 - [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 
-### Python 3 :snake:
+### :snake: Python 3
 
 Python 3 is required to run the files within this repository.
 
