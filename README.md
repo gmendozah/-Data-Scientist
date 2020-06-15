@@ -21,7 +21,7 @@ Based on your operating system, installation instructions are available online:
 
 ### :snake: Python 3
 
-Python 3 is required to run the files within this repository.
+Python 3 is required to run the files within this repository. 
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory `Data-Scientist/` (that contains this README) and run the following command:
